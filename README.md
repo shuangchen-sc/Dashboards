@@ -1,2 +1,3 @@
 # Dashboards
-A portfolio of redacted dashboards I built for various projects.
+
+A portfolio of dashboards (redacted) that I built for various projects.
